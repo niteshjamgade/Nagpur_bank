@@ -1,0 +1,7 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target
+!**/src/main/**/target
+.settings
+.apt_genrated
+.project
